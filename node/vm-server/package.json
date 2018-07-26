@@ -1,0 +1,7 @@
+{
+  "name": "vm-server",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
